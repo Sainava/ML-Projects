@@ -208,3 +208,6 @@ __marimo__/
 
 #Mac specific formatting 
 .DS_Store
+
+#Data files
+artifacts/
